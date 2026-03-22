@@ -75,7 +75,8 @@ The dataset used in this project contains retail data related to Blinkit operati
     ## 📷 Dashboard Preview  
 
 Below is a snapshot of the Excel dashboard showcasing key insights and visualizations:
-![Blinkit Dashboard](dashboard_preview.png)
+<img width="1871" height="667" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/69f09b55-7b97-400c-a25d-23b9a2c26f1e" />
+
 
 ----
 ## 📊 Insights Derived  
